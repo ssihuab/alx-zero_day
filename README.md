@@ -1,1 +1,1 @@
-My first readme
+ALX course is becoming easy
